@@ -1,0 +1,14 @@
+Hello
+World
+This is a sample input file
+Java
+Stream API
+Concurrent programming
+Annotations
+Data processing
+Example
+End of file
+Short
+Test
+Data
+Processor
